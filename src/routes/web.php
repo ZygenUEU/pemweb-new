@@ -24,3 +24,7 @@ Route::get('/tes', function () {
 Route::get('/sample', function () {
     return view('sample');
 });
+
+Route::get('/main', function () {
+    return view('layouts.main');
+});
