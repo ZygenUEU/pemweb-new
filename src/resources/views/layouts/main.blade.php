@@ -11,6 +11,6 @@
 </head>
 <body>
     @include('partials.header')
-    <h1>TEST PARTIALS</h1>
+    <h1><center>TEST PARTIALS</center></h1>
 </body>
 </html>
